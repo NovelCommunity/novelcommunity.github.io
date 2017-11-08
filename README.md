@@ -1,3 +1,3 @@
 # novelcommunity.github.io
 
-Novel Community nasceu como um projeto de criar um website open-source.
+Novel Community was born as a project to create an open-source website.
